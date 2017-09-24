@@ -1,0 +1,8 @@
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Yaser/AppData/Local/Temp/sbt-structure.xml
+all {file:/C:/Users/Yaser/Documents/source/helloscala/}helloscala/products {file:/C:/Users/Yaser/Documents/source/helloscala/}helloscala/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Yaser/AppData/Local/Temp/sbt-structure.xml
+all {file:/C:/Users/Yaser/Documents/source/helloscala/}helloscala/products {file:/C:/Users/Yaser/Documents/source/helloscala/}helloscala/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Yaser/AppData/Local/Temp/sbt-structure.xml
+all {file:/C:/Users/Yaser/Documents/source/helloscala/}helloscala/products {file:/C:/Users/Yaser/Documents/source/helloscala/}helloscala/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Yaser/AppData/Local/Temp/sbt-structure.xml
+all {file:/C:/Users/Yaser/Documents/source/helloscala/}helloscala/products {file:/C:/Users/Yaser/Documents/source/helloscala/}helloscala/test:products
